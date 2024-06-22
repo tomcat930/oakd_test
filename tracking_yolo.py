@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# coding: utf-8
 import argparse
 import cv2
 from lib.oakd_tracking_yolo import OakdTrackingYolo
